@@ -1,0 +1,1 @@
+# Simulations-Comparing-Interaction-for-Adjusted-Risk-Ratios-versus-Adjusted-Odds-Ratios
